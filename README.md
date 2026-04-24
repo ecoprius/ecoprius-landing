@@ -160,3 +160,4 @@ integrate:
 3. Optionally forward the Entra token to the embedded app via the
    `X-MS-CLIENT-PRINCIPAL` header that SWA adds automatically.
 .
+.
